@@ -2,7 +2,7 @@
 
 A 3D dirt-buggy racer in one HTML file, in the style of 1990s buggy racers like Powerslide (1998). The art and track are original.
 
-- Two tracks: Red Canyon (day) and Night Canyon (lanterns, stars, headlights)
+- Four tracks: Red Canyon (day), Night Canyon (lanterns, stars, headlights), Frozen Pass (snow, pines, slippery) and Sunset Mesa (fast, two jumps)
 - Turbo: powersliding and the glowing arrow pads fill the meter (blue ring on the speedometer); press Shift to fire it
 - 8 buggies, 3 or 5 laps, start lights, position, lap, timer, gear and speedometer HUD
 - Slidey arcade handling: throttle, brake/reverse and a handbrake for powerslides
