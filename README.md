@@ -2,6 +2,8 @@
 
 A 3D dirt-buggy racer in one HTML file, in the style of 1990s buggy racers like Powerslide (1998). The art and track are original.
 
+- Two tracks: Red Canyon (day) and Night Canyon (lanterns, stars, headlights)
+- Turbo: powersliding and the glowing arrow pads fill the meter (blue ring on the speedometer); press Shift to fire it
 - 8 buggies, 3 or 5 laps, start lights, position, lap, timer, gear and speedometer HUD
 - Slidey arcade handling: throttle, brake/reverse and a handbrake for powerslides
 - A desert canyon track with a jump, a rock arch and a rope bridge, plus skid marks and dust
@@ -26,6 +28,7 @@ then visit http://localhost:8000.
 | Down / S | Brake, then reverse |
 | Left Right / A D | Steer |
 | Space | Handbrake slide |
+| Shift / X | Turbo |
 | R | Put the car back on the track |
 | C | Change camera |
 | M | Sound on/off |
